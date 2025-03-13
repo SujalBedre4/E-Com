@@ -1,0 +1,23 @@
+
+
+
+main {
+    flex: 1;
+}
+
+
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+
+.footer h3 {
+    margin: 0;
+    font-size: 18px;
+}
